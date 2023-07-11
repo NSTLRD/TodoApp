@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-This project was developed as a part of the TodoApp application.
+This project was developed by me starling diaz software developer.
